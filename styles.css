@@ -1,54 +1,54 @@
 body {
-    font-family: Arial, sans-serif;
-    padding: 20px;
-    background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 .form-buku {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
 }
 
 .form-buku input {
-    padding: 10px;
-    width: 200px;
-    margin-right: 10px;
+  padding: 10px;
+  width: 200px;
+  margin-right: 10px;
 }
 
 .rak-buku {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
 
 .rak {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 45%;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 45%;
 }
 
 .rak h2 {
-    text-align: center;
+  text-align: center;
 }
 
 .daftar-buku {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 .daftar-buku li {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
 }
 
 .daftar-buku li button {
-    margin-left: 10px;
+  margin-left: 10px;
 }
